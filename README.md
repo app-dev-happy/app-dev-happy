@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working at [Reliance Jio - MyJio Android Team](https://www.jio.com/).
 - 🌱 I’m very enthusiastic developing different categories of Apps viz. Shopping, Productivity, Personalization, Finance, Entertainment...
-- 📫 How to reach me: [@appdev.happy](https://www.instagram.com/appdev.happy/)
+- 📫 How to reach me: [appdev@gmail.com](appdev.happy@gmail.com)  [@appdev.happy](https://www.instagram.com/appdev.happy/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=app-dev-happy&label=Profile Views&color=brightgreen&style=plastic" alt="app-dev-happy" />
   <img src="https://komarev.com/ghpvc/?username=app-dev-happy&label=Repo Views&color=blue&style=plastic" alt="app-dev-happy" />
