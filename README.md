@@ -17,4 +17,4 @@
 
 [<img src="https://github.com/app-dev-happy/Happy/blob/main/ExpenseTracker.jpg" width="200" height="350">](https://www.instagram.com/p/CCTpN7iAIMM/). [<img src="https://github.com/app-dev-happy/Happy/blob/main/DashboardScreen2%20%E2%80%93%201.jpg" width="180" height="350">](https://www.instagram.com/p/CEUiUqVAdgs/)
 
-[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201111_232111_446.jpg" width="200" height="350">](https://www.instagram.com/p/CCTpN7iAIMM/). [<img src="https://github.com/app-dev-happy/Happy/blob/main/DashboardScreen2%20%E2%80%93%201.jpg" width="180" height="350">](https://www.instagram.com/p/CEUiUqVAdgs/)
+[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201111_232111_446.jpg" width="200" height="350">](https://www.instagram.com/p/CCTpN7iAIMM/)
