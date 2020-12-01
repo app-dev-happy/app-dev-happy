@@ -19,4 +19,8 @@
 
 [<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201111_232111_446.jpg" width="350" height="350">](https://www.instagram.com/p/CHdaF2lgnQt/?igshid=g4s74apnp3fd)
 
-[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201111_232111_446.jpg" width="350" height="350">](https://www.instagram.com/p/CHdaF2lgnQt/?igshid=g4s74apnp3fd)
+[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201111_232136_848.jpg" width="350" height="350">](https://www.instagram.com/p/CHdaI8nArDA/?igshid=880ew539u8lr)
+
+[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201115_092811_307.jpg" width="350" height="350">](https://www.instagram.com/p/CHmN8NAAsvE/?igshid=icgi32h97glz)
+
+[<img src="https://github.com/app-dev-happy/app-dev-happy/blob/main/IMG_20201115_092959_579.jpg" width="350" height="350">](https://www.instagram.com/p/CHmOJbcAUbA/?igshid=1gtwiitokjlza)
